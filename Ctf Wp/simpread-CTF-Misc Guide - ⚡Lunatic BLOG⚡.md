@@ -1,7 +1,5 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [goodlunatic.github.io](https://goodlunatic.github.io/posts/1ad9200/#python%E4%B8%ADstr%E7%B1%BB%E5%9E%8B%E5%92%8Cbyte%E7%B1%BB%E5%9E%8B)
 
-This is a simple Guide for CTF in Misc Area.
-
 **This is a simple Guide for CTF in Misc Area.**
 
 Misc Guide
