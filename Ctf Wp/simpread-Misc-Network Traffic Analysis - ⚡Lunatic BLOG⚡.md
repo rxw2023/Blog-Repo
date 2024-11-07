@@ -1,6 +1,6 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [goodlunatic.github.io](https://goodlunatic.github.io/posts/5422d65/#ntlm%E6%B5%81%E9%87%8F%E5%88%86%E6%9E%90)
 
-> This is a Simple Guide for Network Traffic Analysis.
+This is a Simple Guide for Network Traffic Analysis.
 
 **This is a Simple Guide for Network Traffic Analysis.**
 
